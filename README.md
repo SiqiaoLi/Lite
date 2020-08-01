@@ -1,1 +1,1 @@
-# Lite
+# Lite - Social media website
