@@ -1,0 +1,28 @@
+body {
+  font-family: Verdana, Geneva, Arial, sans-serif;
+}
+form{
+  display: table;
+  padding: 30px;
+  border: thin dotted #7e7e7e;
+  margin: auto;
+  background-color: #ffffff;
+}
+
+div.tableRow{
+  display: table-row;
+}
+
+div.tableRow p{
+  display:table-cell;
+  vertical-align: top;
+  padding: 3px;
+}
+
+div.tableRow p:first-child{
+  text-align:right;
+}
+
+p.heading{
+  font-weight: bold;
+}
